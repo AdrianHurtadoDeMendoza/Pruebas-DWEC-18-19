@@ -2,6 +2,8 @@
 Este es nuestro primer repositorio en Git-Hub.
 
 Para la clase de  Desarrollo Web 
+Pruebas desde ECLIPSE!!
+
 | Plugin | README |
 
 | ------ | ------ |
